@@ -26,7 +26,7 @@ Snake Robot Lateral Undulation Motion
 </p>
 
 <h3 align="center" style="color:#20B2AA; font-size:17px;">
-Snake Robot concertina Locomotion in a pipe
+3D Snake Robot concertina Locomotion in a pipe
 </h3>
 
 <p align="center">
@@ -34,7 +34,7 @@ Snake Robot concertina Locomotion in a pipe
 </p>
 
 <h3 align="center" style="color:#32CD32; font-size:17px;">
-Real-Time Sensor Feedback Visualization
+3D Snake Robot concertina Locomotion in a s-shaped pipe
 </h3>
 
 <p align="center">
