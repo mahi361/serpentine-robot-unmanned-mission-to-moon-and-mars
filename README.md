@@ -34,9 +34,9 @@ Snake Robot Lateral Undulation Motion
 </p>
 
 <h3 align="center" style="color:#32CD32; font-size:17px;">
-3D Snake Robot concertina Locomotion in a s-shaped pipe
+3D Snake Robot concertina Locomotion in a s-shaped pipe(8x)
 </h3>
 
 <p align="center">
-  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Aruco_marker/cam5.gif" width="60%" />
+  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Ros/long_snake_8x_new_gif.gif" width="60%" />
 </p>
