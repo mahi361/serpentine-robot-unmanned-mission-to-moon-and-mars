@@ -10,12 +10,21 @@ Aruco Marker Detection for Pose Estimation
 </p>
 
 <h3 align="center" style="color:#9370DB; font-size:17px;">
-3D Concertina Motion Simulation (ROS)
+3D Snake Robot concertina Locomotion in a pipe(ROS)
 </h3>
 
 <p align="center">
   <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Ros/concertina3D.gif" width="60%" />
 </p>
+
+<h3 align="center" style="color:#32CD32; font-size:17px;">
+3D Snake Robot concertina Locomotion in a s-shaped pipe(8x)
+</h3>
+
+<p align="center">
+  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Ros/long_snake_8x_new_gif.gif" width="60%" />
+</p>
+
 
 <h3 align="center" style="color:#FF6347; font-size:17px;">
 Snake Robot Lateral Undulation Motion
@@ -29,10 +38,3 @@ Snake Robot Lateral Undulation Motion
   <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Aruco_marker/cam4.gif" width="60%" />
 </p>
 
-<h3 align="center" style="color:#32CD32; font-size:17px;">
-3D Snake Robot concertina Locomotion in a s-shaped pipe(8x)
-</h3>
-
-<p align="center">
-  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Ros/long_snake_8x_new_gif.gif" width="60%" />
-</p>
