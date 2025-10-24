@@ -5,7 +5,7 @@ I will be uploading the complete project details after getting publication paper
 
 <p align="center">
   <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Aruco_marker/cam%201final_gif_aruco.gif" width="45%" />
-  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Aruco_marker/cam2.gif" width="45%" />
+  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Ros/concertina3D.gif" width="45%" />
 </p>
 
 <p align="center">
