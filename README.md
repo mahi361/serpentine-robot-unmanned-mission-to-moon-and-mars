@@ -27,7 +27,7 @@ Aruco Marker Detection for Pose Estimation
 
 
 <h3 align="center" style="color:#FF6347; font-size:17px;">
-Snake Robot Lateral Undulation Motion
+2D snake on track testing
 </h3>
 
 <h3 align="center" style="color:#20B2AA; font-size:17px;">
@@ -35,6 +35,17 @@ Snake Robot Lateral Undulation Motion
 </h3>
 
 <p align="center">
-  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Aruco_marker/cam4.gif" width="60%" />
+  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Git/2d_snake_ros_gif.gif" width="60%" />
+</p>
+<h3 align="center" style="color:#FF6347; font-size:17px;">
+2D snake on track testing
+</h3>
+
+<h3 align="center" style="color:#20B2AA; font-size:17px;">
+3D Snake Robot concertina Locomotion in a pipe
+</h3>
+
+<p align="center">
+  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Git/2d_snake_ros_gif.gif" width="60%" />
 </p>
 
