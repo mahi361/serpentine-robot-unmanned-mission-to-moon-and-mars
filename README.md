@@ -1,4 +1,4 @@
-# serpentine-robot-unmanned-mission-to-moon-and-mars
+ serpentine-robot-unmanned-mission-to-moon-and-mars
 I will be uploading the complete project details after getting publication paper!!
 
  #Aruco marker detection for pose estimstion of snake
