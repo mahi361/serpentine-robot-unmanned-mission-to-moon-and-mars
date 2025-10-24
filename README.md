@@ -7,7 +7,7 @@ Aruco Marker Detection for Pose Estimation of Snake Robot
 
 <p align="center">
   <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Aruco_marker/cam%201final_gif_aruco.gif" width="45%" />
-  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Aruco_marker/cam2.gif" width="45%" />
+  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Ros/concertina3D.gif" width="45%" />
 </p>
 
 <h3 align="center" style="color:#FF6347; font-size:18px;">
